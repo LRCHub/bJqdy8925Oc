@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "생명에게 미움받고 있어 (命に嫌われている。) / 텐코 시부키(Tenko Shibuki) cover",
+  "base_artist": "텐코 시부키 TENKO SHIBUKI",
+  "createdAt": "2026-04-03T22:46:34.372414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "생명에게 미움받고 있어 (命に嫌われている。) / 텐코 시부키(Tenko Shibuki) cover",
+      "artist": "텐코 시부키 TENKO SHIBUKI",
+      "has_synced": true,
+      "path": "select/01_생명에게_미움받고_있어_(命に嫌われている。)___텐코_시부키(Tenko_Shibuki)_cover_텐코_시부키_TENKO_SHIBUKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命に嫌われている。 (생명에게 미움받고 있어, Hated by life itself, Inochi ni Kirawarete iru)",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/02_命に嫌われている。_(생명에게_미움받고_있어,_Hated_by_life_itself,_Inochi_ni_Kirawarete_iru)_Raon_Lee.lrc"
+    }
+  ]
+}
